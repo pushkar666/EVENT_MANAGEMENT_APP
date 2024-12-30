@@ -60,6 +60,8 @@ The backend exposes a set of RESTful APIs to handle CRUD operations for events, 
    - Get Tasks for an Event
    - Update Task Status
 
+![Alt Text](Hackathon.drawio.png)
+
 ### Integration
 
 The frontend is integrated with the backend using Axios to make HTTP requests to fetch and manipulate data. The user interface displays real-time data fetched from the backend, and success/error messages are shown upon completing API calls.
